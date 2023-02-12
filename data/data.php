@@ -37,7 +37,7 @@ $products = [
     ],
     [
         "name"=> "Focus Carry Pouch",
-        "image"=>"https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-07.jpg",
+        "image"=>"https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-08.jpg",
         "price"=>"32",
     ],
 ];
